@@ -1,2 +1,2 @@
-All the examples for Max/MSP from Andy Farnell's book Designing Sound
+All the examples from Andy Farnell's book Designing Sound translated for Max/MSP 
 Requirement: Pd4Max library
